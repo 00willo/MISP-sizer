@@ -1,6 +1,6 @@
 # Introduction
 
-https://misp-project.org/MISP-sizer/
+https://misp.github.io/MISP-sizer/
 
 Sizing hardware for MISP deployment usually comes early in the project, without much view of what kind of sizing may be useful nor what kind of usage volumes will be.
 
